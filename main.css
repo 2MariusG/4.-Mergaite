@@ -3,11 +3,31 @@ div{
     margin-left: calc( (100% - 800px) / 2 );
     background-color: aquamarine;
 }
-header {
-    display: inline-block;
-    width: 100%;
-}
-main {
+    header {
+       display: inline-block;
+       width: 100%;
+    }
+       header > image {
+
+       }
+       nav {
+
+       }
+       a{
+
+       }
+    main {
     display: inline-block;
     width: 100%
-}
+    }  
+       div{
+           h1 {
+
+           }
+           p {
+
+           }
+       }
+       main > image {
+
+       }
